@@ -4,10 +4,6 @@
   Desenvolvedor full stack na <a href="https://loog.ai">Loog.ai</a> · Ciência da Computação na UFU
 </p>
 
-<p align="center">
-  <a href="https://gabrielsonyplay.github.io"><img src="https://img.shields.io/badge/Site-222222?style=flat&logo=githubpages&logoColor=white" alt="Site"></a>
-</p>
-
 ---
 
 ### Sobre mim
@@ -37,7 +33,6 @@
 | --- | --- |
 | [PDI-Gabriel-Lemes](https://github.com/GabrielLemes-CS/PDI-Gabriel-Lemes) | Trabalhos de Processamento Digital de Imagens (Jupyter) |
 | [Onboarding_LIPAI](https://github.com/GabrielLemes-CS/Onboarding_LIPAI) | Onboarding do laboratório LIPAI (Jupyter) |
-| [GabrielSonyplay.github.io](https://github.com/GabrielLemes-CS/GabrielSonyplay.github.io) | Meu site pessoal |
 
 ---
 
